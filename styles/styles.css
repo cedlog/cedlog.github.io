@@ -41,7 +41,7 @@ body {
    color: #5a4a42;
 }
 
-#main h1, #header h1 {
+#main h1, #header h1, #nav h1 {
    margin: 0;
    padding: 10px 0;
 }
