@@ -1,6 +1,9 @@
 Copyright (C) 2019
 
-This file is part of a personal developer website.
+This file is part of my personal developer website.
+It provides information about the website project copyright and licensing.
+
+# Contents
 
 Unless otherwise specified, the contents formatted and published on the website
 are copyrighted and licensed under the following license :
@@ -8,5 +11,7 @@ Creative Commons Attribution-ShareAlike 4.0 International License
 A copy of this license can be found at the following address :
 https://creativecommons.org/licenses/by-sa/4.0/
 
-Unless otherwise specified, the source code of the website is copyrighted.
-Any of the licenses specified above cannot be applied to the source code of the website.
+# Source code
+
+Unless otherwise specified, the website source code is copyrighted.
+Any of the licenses specified above cannot apply to the website source code.

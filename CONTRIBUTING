@@ -1,6 +1,11 @@
-This is a personal website project.
+This file is part of my personal developer website.
+It provides information about contributing to the website project.
 
-You may create an issue at the following link if necessary :
+# Issues or bugs
+
+Feel free to contribute by creating an issue using the following link:
 https://github.com/cedlog/cedlog.github.io/issues
 
-Please do not send pull requests, they will not be accepted.
+# Pull request
+
+Please do not send pull request, it will not be accepted.
