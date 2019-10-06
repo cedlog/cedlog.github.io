@@ -16,12 +16,29 @@ body {
    color: #353535;
 }
 
+h1, p {
+   margin: 0;
+   padding: 10px 0;
+}
+
 #side {
    width: 25%;
    height: 100%;
    display: inline-block;
    vertical-align: top;
    background-color: #ece6cb;
+}
+
+#content {
+   width: 75%;
+   height: 100%;
+   display: inline-block;
+   vertical-align: top;
+   background-color: #f4f3ee;
+}
+
+#nav, #footer, #content {
+   padding: 0 5px;
 }
 
 #header {
@@ -37,28 +54,6 @@ body {
    color: #5a4a42;
 }
 
-#content {
-   width: 75%;
-   height: 100%;
-   display: inline-block;
-   vertical-align: top;
-   background-color: #f4f3ee;
-}
-
 #content h1 {
    color: #d25438;
-}
-
-#nav, #footer, #content {
-   padding: 0 5px;
-}
-
-#header h1, #nav h1, #content h1 {
-   margin: 0;
-   padding: 10px 0;
-}
-
-p {
-   margin: 0;
-   padding: 8px 0;
 }
